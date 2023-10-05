@@ -3,7 +3,7 @@
 ![reddit image](https://i.redd.it/y9y25tefi5401.png)
 
 
-__Project Description__
+## Project Description
 
 In this project, the objective is to understand and implement variable annotations in Python. 
 Variable annotations were introduced in Python 3.6, 
