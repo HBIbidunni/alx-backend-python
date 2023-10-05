@@ -1,6 +1,6 @@
 # Python - Variable Annotations; The ALX Project
 ---------------
-https://i.redd.it/y9y25tefi5401.png
+![reddit image](https://i.redd.it/y9y25tefi5401.png)
 
 
 __Project Description__
